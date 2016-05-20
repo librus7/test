@@ -1,4 +1,0 @@
-file3 r1
-file3 r2
-file3 r3
-after gitignore a change
